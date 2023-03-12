@@ -1,0 +1,548 @@
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/1052aefcc444b8e6/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\1052aefcc444b8e6\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/149f471ad9c01a4d/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\149f471ad9c01a4d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/34ec47b6b301a99/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\34ec47b6b301a99\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/5287057ed579cd78/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\5287057ed579cd78\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/a3d8deaddd44ddf4/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\a3d8deaddd44ddf4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/a674390c5758919e/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\a674390c5758919e\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/b2c89f3c502388b3/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\b2c89f3c502388b3\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/c3107ec5107201a7/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\c3107ec5107201a7\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/e62ac1890aabc534/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\e62ac1890aabc534\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/eea09d93c6d87f11/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\eea09d93c6d87f11\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/f32db622419809a4/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\f32db622419809a4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/fa22b996-a982-432e-b6f9-f9aa364a5853/gpub/f53e6c185a7cc0a0/script.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\blobby\go\fa22b996-a982-432e-b6f9-f9aa364a5853\gpub\f53e6c185a7cc0a0\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.30.1.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\ceph-p3-01\website-builder-data-prod\static\widgets\UX.4.30.1.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsI.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsI.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsI.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsI.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzQ.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzQ.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzQ.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzQ.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc-.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc-.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc-.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc-.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc-.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc-.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxM.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxM.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/gfonts/s/zillaslab/v11/dFa5ZfeM_74wlPZtksIFYskZ6HOpXQ.woff
+File Name: C:\Downloaded Web Sites\ourinstructor.com\gfonts\s\zillaslab\v11\dFa5ZfeM_74wlPZtksIFYskZ6HOpXQ.woff
+Content Type: font/woff
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=h:104,cg:true,m/qt=q:95
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=h104,cgtrue,m\qt=q95
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=h:200,cg:true,m/qt=q:95
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=h200,cgtrue,m\qt=q95
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:104
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w104
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:114,h:114,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w114,h114,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:120,h:120,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w120,h120,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:144,h:144,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w144,h144,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:152,h:152,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w152,h152,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:180,h:180,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w180,h180,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:200
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w200
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:57,h:57,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w57,h57,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:60,h:60,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w60,h60,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/blob-90ef300.png/:/rs=w:72,h:72,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\blob-90ef300.png\rs=w72,h72,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/favicon/e5b745b9-c978-4b65-af55-2752d5105015.png/:/rs=w:16,h:16,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\favicon\e5b745b9-c978-4b65-af55-2752d5105015.png\rs=w16,h16,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/favicon/e5b745b9-c978-4b65-af55-2752d5105015.png/:/rs=w:24,h:24,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\favicon\e5b745b9-c978-4b65-af55-2752d5105015.png\rs=w24,h24,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/favicon/e5b745b9-c978-4b65-af55-2752d5105015.png/:/rs=w:32,h:32,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\favicon\e5b745b9-c978-4b65-af55-2752d5105015.png\rs=w32,h32,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/favicon/e5b745b9-c978-4b65-af55-2752d5105015.png/:/rs=w:48,h:48,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\favicon\e5b745b9-c978-4b65-af55-2752d5105015.png\rs=w48,h48,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/favicon/e5b745b9-c978-4b65-af55-2752d5105015.png/:/rs=w:64,h:64,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\favicon\e5b745b9-c978-4b65-af55-2752d5105015.png\rs=w64,h64,m
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/WhatsApp Image 2023-02-20 at 8.14.45 PM.jpeg/:/cr=t:0%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\WhatsApp Image 2023-02-20 at 8.14.45 PM.jpeg\cr=t0%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/fa22b996-a982-432e-b6f9-f9aa364a5853/WhatsApp Image 2023-02-20 at 8.14.45 PM.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\ip\fa22b996-a982-432e-b6f9-f9aa364a5853\WhatsApp Image 2023-02-20 at 8.14.45 PM.jpeg\cr=t0%,l0%,w100%,h100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1123/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1123\cr=t0%,l0%,w100%,h100%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\cr=t0%,l0%,w100%,h100%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:100%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:450,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:767,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1124/:/rs=w:900,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1124\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:12.5%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t12.5%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:12.5%25,l:0%25,w:100%25,h:75%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t12.5%,l0%,w100%,h75%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:100%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:450,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:767,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/1135/:/cr=t:20.5%25,l:32.14%25,w:14.29%25,h:14.29%25/rs=w:900,m
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\1135\cr=t20.5%,l32.14%,w14.29%,h14.29%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/22719/:/rs=w:388
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\22719\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/22719/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\22719\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/320/:/rs=w:388
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\320\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/320/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\320\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/7727/:/rs=w:388
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\7727\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/7727/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\7727\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/98a699612d9f197ad70647c4cd40346d1356a0d22f659a35cc69ce9bf05a3ef6/:/rs=w:388
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\98a699612d9f197ad70647c4cd40346d1356a0d22f659a35cc69ce9bf05a3ef6\rs=w388
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/98a699612d9f197ad70647c4cd40346d1356a0d22f659a35cc69ce9bf05a3ef6/:/rs=w:388,h:194,cg:true,m/cr=w:388,h:194
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\98a699612d9f197ad70647c4cd40346d1356a0d22f659a35cc69ce9bf05a3ef6\rs=w388,h194,cgtrue,m\cr=w388,h194
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/a2Dl1W/:/cr=t:12.47%25
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\a2Dl1W\cr=t12.47%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/stock/a2Dl1W/:/cr=t:12.47%25,l:0%25,w:100%25,h:75.06%25/rs=w:388,h:194,cg:true
+File Name: C:\Downloaded Web Sites\ourinstructor.com\isteam\stock\a2Dl1W\cr=t12.47%,l0%,w100%,h75.06%\rs=w388,h194,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img6.wsimg.com/wrhs/5c3e20ad749ddb088afc84b1b7ff009e/tccl.min.js
+File Name: C:\Downloaded Web Sites\ourinstructor.com\wrhs\5c3e20ad749ddb088afc84b1b7ff009e\tccl.min.js
+Content Type: application/javascript
+
+Uri: https://ourinstructor.com/
+File Name: C:\Downloaded Web Sites\ourinstructor.com\index.htm
+Content Type: text/html
+
+Uri: https://ourinstructor.com/contact-us
+File Name: C:\Downloaded Web Sites\ourinstructor.com\contact-us.html
+Content Type: text/html
+
+Uri: https://ourinstructor.com/faq
+File Name: C:\Downloaded Web Sites\ourinstructor.com\faq.html
+Content Type: text/html
+
+Uri: https://ourinstructor.com/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\ourinstructor.com\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://ourinstructor.com/services
+File Name: C:\Downloaded Web Sites\ourinstructor.com\services.html
+Content Type: text/html
+
+Uri: https://ourinstructor.com/students
+File Name: C:\Downloaded Web Sites\ourinstructor.com\students.html
+Content Type: text/html
+
+Uri: https://ourinstructor.com/teachers
+File Name: C:\Downloaded Web Sites\ourinstructor.com\teachers.html
+Content Type: text/html
+
